@@ -1,2 +1,2 @@
 # GoogleMaps_Practice
-practicing googel maps
+practicing google maps
